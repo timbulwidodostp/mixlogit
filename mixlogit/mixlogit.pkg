@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'mixlogit': Mixed logit models by using maximum simulated likelihood Use mixlogit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f mixlcov.ado
+f mixlog_d0.ado
+f mixlogit.ado
+f mixlogit.hlp
+f mixlpred.ado
